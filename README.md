@@ -1,4 +1,4 @@
-# CNNExample
+# Convoultion neural network example.
 Convolution neural network example for beginners.
 
 In this project CNN is trained using MNIST dataset and Keras APIs.
